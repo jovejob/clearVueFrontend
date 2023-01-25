@@ -55,3 +55,14 @@ pnpm lint
 ### Customize configuration
 
 See [Configuration Reference](https://vitejs.dev/config/).
+
+
+## Create a `.env.local` file in the root of your project and insert your key/value pairs in the following format of `KEY=VALUE`
+
+
+
+My Env vars(EXAMPLE):
+
+```sh
+VITE_BASE_CORE_API_URL=http://127.0.0.1:3333
+```
